@@ -1,0 +1,253 @@
+{
+  "AdTypeTips": "default|admob|fan",
+
+  "adByBanned": [
+    "com.packate.name.here.will.be.banned.ad"
+  ],
+
+  "mainAdType": "admob",
+
+  "homePageAdType": "admob",
+
+  "homePageAppAdObject": {
+    "appId": "trends.beauty.art.nature.art.editor",
+    "appName": "Nature Photo Frames special version",
+    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.art.nature.art.editor",
+    "featureUrl": "https://lh3.googleusercontent.com/p_hl-D-wMQwDbkbrS86H2tziALRHeR6zCN1PVGWe3OjDLzLaZzSFz2cV7lCO01bIkgY=w2880-h1418",
+    "iconUrl": "https://lh3.googleusercontent.com/bSUndAAEHo9Grf9GunJYC5hgXjxpcXfARXYIGakxYTsR99gaHTCvV9_ItTnpRExu2WE=s360",
+    "link": "http://bit.ly/nature_photo_frame",
+    "pubName": "TrendsArt",
+    "description": "Enjoy Nature dual photo frame to make your memories unforgettable with a lot of effect and power tool+++"
+  },
+
+  "promotion": [
+  	{
+  		"title":"Minni Mouse Photo Editor",
+  		"subTitle":"Sponsored",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/r003MinniMousePhotoEditor.png",
+  		"key":"http://bit.ly/TrendsArtMini"
+  	},
+  	{
+  		"title":"Fire on Photo",
+  		"subTitle":"Filter",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/cover",
+  		"key":"f004"	
+  	},
+  	{
+  		"title":"Christmas",
+  		"subTitle":"Filter",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Christmas/cover",
+  		"key":"f001"	
+  	},
+  	{
+  		"title":"Star on Sky",
+  		"subTitle":"Filter",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/cover",
+  		"key":"f005"	
+  	}
+  ],
+
+  "adsCollectionEnable": "false",
+  "adsCollection": [
+    {
+      "linkUrl": "https://goo.gl/abHMFy",
+      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
+      "text": "Makeup Camera 1"
+    },
+    {
+      "linkUrl": "https://goo.gl/abHMFy",
+      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
+      "text": "Makeup Camera 2"
+    },
+    {
+      "linkUrl": "https://goo.gl/abHMFy",
+      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
+      "text": "Makeup Camera 3"
+    }
+  ],
+  "showAdLabel":"false",
+
+  "showEditorBanner": "1",
+  "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
+
+  "idAds": [
+    {
+      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
+      "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "homePageAdType": "fan",
+      "homePageAdTypeTips": "default|admob|fan|custom",
+      "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
+      "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+      "mainAdType": "admob",
+      "mainAdTypeAdTypeTips": "default|admob|fan|custom",
+      "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
+      "nativeFAN": "1818114414906888_1818115141573482",
+      "packageName": "pcm_this_is_test.photo.collage.master.pro",
+      "rewardedVideoAdMob": "ca-app-pub-3940256099942544/5224354917",
+      "showEditorBanner": "1",
+      "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
+      "unofficial": "1",
+      "unofficialTip": "0: It's normal, 1: It's unofficial"
+    },
+    {
+      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
+      "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "homePageAdType": "fan",
+      "homePageAdTypeTips": "default|admob|fan|custom",
+      "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
+      "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+      "mainAdType": "fan",
+      "mainAdTypeAdTypeTips": "default|admob|fan|custom",
+      "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
+      "nativeFAN": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "packageName": "pcm.photo.collage.master",
+      "showEditorBanner": "1",
+      "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
+    },
+    {
+      "bannerAdMob": "ca-app-pub-8471481257064175/9712490957",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/6703184231",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5881057159",
+      "packageName": "tba.christmas.photo.frames_and_sticker"
+    },
+    {
+      "bannerAdMob": "ca-app-pub-8471481257064175/8060228439",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/8775093041",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5597716623",
+      "packageName": "tba.halloween.photo.editor.scary.mask"
+    }
+  ],
+
+  "resAd": [
+    {}
+  ],
+
+  "resBackground": [
+    {}
+  ],
+
+  "resFilter": [
+    {
+      "id": "f001",
+      "name": "Christmas",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Christmas/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f002",
+      "name": "Glitter",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Glitter/",
+      "price": "0",
+      "size": "7",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f003",
+      "name": "Spooky",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Spooky/",
+      "price": "0",
+      "size": "9",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f004",
+      "name": "Fire",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/",
+      "price": "0",
+      "size": "14",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f005",
+      "name": "Star",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/",
+      "price": "0",
+      "size": "14",
+      "color": "#FFFFFF"
+    }
+  ],
+
+  "resFrames": [
+    {}
+  ],
+
+  "resPoster": [
+    {}
+  ],
+
+  "resSticker": [
+    {
+      "id": "s001",
+      "name": "Travel",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Travel/",
+      "price": "0",
+      "size": "28",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s002",
+      "name": "Chocolate",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Chocolate/",
+      "price": "0",
+      "size": "20"
+    },
+    {
+      "id": "s003",
+      "name": "Vacation",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Vacation/",
+      "price": "0",
+      "size": "20"
+    },
+    {
+      "id": "s004",
+      "name": "Winter_label",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_label/",
+      "price": "0",
+      "size": "24"
+    },
+    {
+      "id": "s005",
+      "name": "Alphabet",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Alphabet/",
+      "price": "0",
+      "size": "27"
+    },
+    {
+      "id": "s006",
+      "name": "Animal_face",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Animal_face/",
+      "price": "0",
+      "size": "37"
+    },
+    {
+      "id": "s007",
+      "name": "Baby",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Baby/",
+      "price": "0",
+      "size": "50"
+    },
+    {
+      "id": "s008",
+      "name": "Beautiful_girl",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Beautiful_girl/",
+      "price": "0",
+      "size": "24"
+    },
+    {
+      "id": "s009",
+      "name": "Birthday_party",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Birthday_party/",
+      "price": "0",
+      "size": "30"
+    },
+    {
+      "id": "s010",
+      "name": "Black",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black/",
+      "price": "0",
+      "size": "56"
+    }
+  ]
+}
