@@ -1,13 +1,7 @@
 {
-  "AdTypeTips": "default|admob|fan",
-
   "adByBanned": [
     "com.packate.name.here.will.be.banned.ad"
   ],
-
-  "mainAdType": "admob",
-
-  "homePageAdType": "admob",
 
   "homePageAppAdObject": {
     "appId": "trends.beauty.art.nature.art.editor",
@@ -20,51 +14,6 @@
     "description": "Enjoy Nature dual photo frame to make your memories unforgettable with a lot of effect and power tool+++"
   },
 
-  "promotion": [
-  	{
-  		"title":"Minni Mouse Photo Editor",
-  		"subTitle":"Sponsored",
-  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/r003MinniMousePhotoEditor.png",
-  		"key":"http://bit.ly/TrendsArtMini"
-  	},
-  	{
-  		"title":"Fire on Photo",
-  		"subTitle":"Filter",
-  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/cover",
-  		"key":"f004"	
-  	},
-  	{
-  		"title":"Christmas",
-  		"subTitle":"Filter",
-  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Christmas/cover",
-  		"key":"f001"	
-  	},
-  	{
-  		"title":"Star on Sky",
-  		"subTitle":"Filter",
-  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/cover",
-  		"key":"f005"	
-  	}
-  ],
-
-  "adsCollectionEnable": "false",
-  "adsCollection": [
-    {
-      "linkUrl": "https://goo.gl/abHMFy",
-      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-      "text": "Makeup Camera 1"
-    },
-    {
-      "linkUrl": "https://goo.gl/abHMFy",
-      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-      "text": "Makeup Camera 2"
-    },
-    {
-      "linkUrl": "https://goo.gl/abHMFy",
-      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-      "text": "Makeup Camera 3"
-    }
-  ],
   "showAdLabel":"false",
 
   "showEditorBanner": "1",
@@ -88,33 +37,6 @@
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
       "unofficial": "1",
       "unofficialTip": "0: It's normal, 1: It's unofficial"
-    },
-    {
-      "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
-      "bannerFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "homePageAdType": "fan",
-      "homePageAdTypeTips": "default|admob|fan|custom",
-      "interstitialAdMob": "ca-app-pub-3940256099942544/1033173712",
-      "interstitialFAN": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-      "mainAdType": "fan",
-      "mainAdTypeAdTypeTips": "default|admob|fan|custom",
-      "nativeAdMob": "ca-app-pub-3940256099942544/2247696110",
-      "nativeFAN": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "packageName": "pcm.photo.collage.master",
-      "showEditorBanner": "1",
-      "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
-    },
-    {
-      "bannerAdMob": "ca-app-pub-8471481257064175/9712490957",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/6703184231",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5881057159",
-      "packageName": "tba.christmas.photo.frames_and_sticker"
-    },
-    {
-      "bannerAdMob": "ca-app-pub-8471481257064175/8060228439",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/8775093041",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5597716623",
-      "packageName": "tba.halloween.photo.editor.scary.mask"
     }
   ]
 }
