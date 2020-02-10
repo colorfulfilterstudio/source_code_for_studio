@@ -4,11 +4,11 @@
   ],
 
   "homePageAppAdObject": {
-    "appId": "cofs.heart.camera",
-    "appName": "Heart Camera",
-    "appUrl": "https://play.google.com/store/apps/details?id=cofs.heart.camera",
-    "featureUrl": "https://raw.githubusercontent.com/colorfulfilterstudio/source_code_for_studio/master/graphic.png",
-    "iconUrl": "https://lh3.googleusercontent.com/TdWRzpVPJL__E5JypPv87Dz8WeeLN4_41STpQgvv0kVO003enkVgSnjONM2x8jnngZs=s180-rw",
+    "appId": "com.makeup3d.camera.photo.editor",
+    "appName": "3D Camera Photo Editor",
+    "appUrl": "https://play.google.com/store/apps/details?id=com.makeup3d.camera.photo.editor",
+    "featureUrl": "https://lh3.googleusercontent.com/5YYxvZnrdupBYkMMTB708dQiXNgzIa7qEzRAKrwvHJhCToesQlS1GQrtLnWw53NqEV4=w1440-h620-rw",
+    "iconUrl": "https://lh3.googleusercontent.com/CNMOqNn2vN9T9wSXaA8VuEYh_mfxBuh3fKo-2T-Et14s538K7jdVnTDBmu6OlMkZR2A=s360-rw",
     "link": "",
     "pubName": "Colorful Filter Studio",
     "description": "Has given you the chance to look cute girl with hundred of heart camera effect, glitch stickers, glitch effect, heart crown, flower crown, dog face camera, cat stickers..."
