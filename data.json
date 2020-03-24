@@ -13,6 +13,16 @@
     "pubName": "Colorful Filter Studio",
     "description": "3D Special Effect Photo Editor contains lot of designed frames which blends on your photo to generate a 3D Effect."
   },
+  "homePageAppAdObjectHW": {
+    "appId": "com.makeup3d.camera.photo.editor",
+    "appName": "3D Camera Photo",
+    "appUrl": "https://play.google.com/store/apps/details?id=com.makeup3d.camera.photo.editor",
+    "featureUrl": "https://lh3.googleusercontent.com/5YYxvZnrdupBYkMMTB708dQiXNgzIa7qEzRAKrwvHJhCToesQlS1GQrtLnWw53NqEV4=w1440-h620-rw",
+    "iconUrl": "https://lh3.googleusercontent.com/CNMOqNn2vN9T9wSXaA8VuEYh_mfxBuh3fKo-2T-Et14s538K7jdVnTDBmu6OlMkZR2A=s360-rw",
+    "link": "",
+    "pubName": "Colorful Filter Studio",
+    "description": "3D Special Effect Photo Editor contains lot of designed frames which blends on your photo to generate a 3D Effect."
+  },
 
   "showAdLabel":"false",
 
