@@ -4,14 +4,14 @@
   ],
 
   "homePageAppAdObject": {
-    "appId": "com.makeup3d.camera.photo.editor",
-    "appName": "3D Camera Photo Editor",
-    "appUrl": "https://play.google.com/store/apps/details?id=com.makeup3d.camera.photo.editor",
-    "featureUrl": "https://lh3.googleusercontent.com/5YYxvZnrdupBYkMMTB708dQiXNgzIa7qEzRAKrwvHJhCToesQlS1GQrtLnWw53NqEV4=w1440-h620-rw",
-    "iconUrl": "https://lh3.googleusercontent.com/CNMOqNn2vN9T9wSXaA8VuEYh_mfxBuh3fKo-2T-Et14s538K7jdVnTDBmu6OlMkZR2A=s360-rw",
+    "appId": "com.filters.forSnapchat.filters4Snapchat",
+    "appName": "Filters for Snapchat 💗",
+    "appUrl": "https://play.google.com/store/apps/details?id=com.filters.forSnapchat.filters4Snapchat",
+    "featureUrl": "https://raw.githubusercontent.com/colorfulfilterstudio/source_code_for_studio/master/snapchat.png",
+    "iconUrl": "https://lh3.googleusercontent.com/7VbCBQSgcHQAKELtgwY2tdqFhve6ySoCgizqmVgM1Rgll5Tk6tcRMbIWQC4P6Sfvf8w=s360-rw",
     "link": "",
-    "pubName": "Colorful Filter Studio",
-    "description": "3D Special Effect Photo Editor contains lot of designed frames which blends on your photo to generate a 3D Effect."
+    "pubName": "PREMIUM PHOTO STUDIO",
+    "description": "With cat face & dog face let you easy share your photo on Snapchat and any other social network"
   },
   "homePageAppAdObjectHW": {
     "appId": "com.makeup3d.camera.photo.editor",
